@@ -67,3 +67,11 @@ b.pop()                 # Remove the last value from the list
 print(b)
 
 
+# Unpacking Python lists
+
+coordinates = [1,2,3]
+
+x , y, z = coordinates
+
+print(z)
+print(x)
