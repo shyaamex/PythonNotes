@@ -59,3 +59,25 @@ _name("Narendra")
 _name("Modi")
 _name()
 _name("Joe")
+
+
+
+
+
+# The Return Statement
+# It is used when you want your function to return values
+def multi(x):
+      return 2 * x
+
+print(multi(3))
+print(multi(5))
+print(multi(9))
+
+
+
+# The Pass statement 
+# When you don't need a function but you might need in future
+# Then, we can use pass statement to skip it for now
+ 
+def Function_one():
+    pass
