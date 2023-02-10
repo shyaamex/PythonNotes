@@ -2,12 +2,14 @@
 
 
 # This is an empty class
+
+
 class first:
     pass #Pass means nothing
 
 
 
-# base class
+# Here, it is the base class
 class Animal:  
     def speak(self):  
         print("Animal Speaking")  
@@ -25,7 +27,7 @@ class DogChild(Dog):
         print("Eating bread...")  
         
         
-        
+# Implementing the inheritance       
 d = DogChild()  
 d.bark()  
 d.speak()  
