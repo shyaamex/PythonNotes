@@ -1,4 +1,5 @@
 # Inheritance in python
+# Using inheritance, a child class can access objects of parents class
 
 
 # This is an empty class
